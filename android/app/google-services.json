@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "336834185335",
+    "firebase_url": "https://osama-chat-def1b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "osama-chat-def1b",
+    "storage_bucket": "osama-chat-def1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336834185335:android:1117e43a8a991e0c7d1e72",
+        "android_client_info": {
+          "package_name": "com.assaf.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336834185335-2gnc4hrv0dmg3q0lp0le0nongmkrf8in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assaf.chat_app",
+            "certificate_hash": "cd8e638cb1bac0e4ec426cfc0bf66959095a218f"
+          }
+        },
+        {
+          "client_id": "336834185335-uvd4a15cs3s17cghflh5gb1vvk1ie0nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6dppl7U18XzrlMrXmXqtzvl6RZZnjKkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336834185335-uvd4a15cs3s17cghflh5gb1vvk1ie0nv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "336834185335-s6qpn7bgtdne4bhls4keh303kat2bsvd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "c"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
